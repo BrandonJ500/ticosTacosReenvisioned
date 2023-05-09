@@ -1,0 +1,25 @@
+body {
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+}
+
+.welcome {
+    text-align: center;
+}
+
+.firstContainer {
+    height: 87vh;
+    text-align: center;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    border: 1px solid green;
+}
+section {
+    border: 1px solid blue;
+}
+
+.menu {
+    text-align: center;
+}
